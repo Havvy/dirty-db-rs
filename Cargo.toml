@@ -5,3 +5,6 @@ authors = ["Havvy <ryan.havvy@gmail.com>"]
 license = "MIT OR Apache-2.0"
 
 [dependencies]
+serde = "1.0.70"
+serde_derive = "1.0.70"
+serde_json = "1.0.24"
